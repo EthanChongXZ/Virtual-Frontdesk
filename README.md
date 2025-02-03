@@ -1,6 +1,13 @@
 # Virtual-Frontdesk
 A digital software that replaces the human receptionist at ISUZU Malaysia Sdn. Bhd. 
 
+## Reminder for Importing
+This is a Power Platform application that utilizes the following suite(s)
+- Power Apps
+- Power Automate
+
+You have to download the zip files and import them into both Power Apps and Power Automate for the application to run.
+
 ## Main Features
 ### Incoming Courier
 Delivery personnel can use this feature to register any deliveries to the people within the company. Simply enter a few details and take a photo of the delivery and it will be stored to a list in SharePoint list upon submission. 
