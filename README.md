@@ -1,5 +1,5 @@
 # Virtual-Frontdesk
-A digital software that replaces the human receptionist at ISUZU Malaysia Sdn. Bhd. 
+A digital software that replaces the human receptionist at my previous employment. 
 
 ## Reminder for Importing
 This is a Power Platform application that utilizes the following suite(s)
